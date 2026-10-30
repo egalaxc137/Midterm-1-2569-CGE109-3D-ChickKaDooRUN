@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c8b16fe08d581604eab335bacb80efa4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148410
+  packageName: RPG Poly Pack - Lite
+  packageVersion: 1.2.0
+  assetPath: Assets/RPGPP_LT/Presets/PostProcess Profile(URP).asset
+  uploadId: 1027608

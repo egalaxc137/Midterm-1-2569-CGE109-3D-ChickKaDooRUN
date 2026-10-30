@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b9570070b542ed14e80cd6c10f173604
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148410
+  packageName: RPG Poly Pack - Lite
+  packageVersion: 1.2.0
+  assetPath: Assets/RPGPP_LT/Scene/MainLevel/LightingData.asset
+  uploadId: 1027608
